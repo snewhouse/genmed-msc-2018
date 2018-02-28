@@ -28,6 +28,9 @@ ssh -i ./teaching-gen-med-msc.pem ${USERNAME}@ec2-34-240-250-169.eu-west-1.compu
 ## WINDOWS
 
 - Go to: [https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)
+- ID: i-06a1de034926d8cb5
+- DNS: ec2-34-240-250-169.eu-west-1.compute.amazonaws.com
+- Public DNS (IPv4): 34.240.250.169
 - Connecting using PuTTY
 
 
@@ -38,7 +41,10 @@ ssh -i ./teaching-gen-med-msc.pem ${USERNAME}@ec2-34-240-250-169.eu-west-1.compu
 
 ## AWS Image Url
 
-- ec2-34-240-250-169.eu-west-1.compute.amazonaws.com
+- ID: i-06a1de034926d8cb5
+- DNS: ec2-34-240-250-169.eu-west-1.compute.amazonaws.com
+- Public DNS (IPv4): 34.240.250.169
+
 
 ## User names
 
